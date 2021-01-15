@@ -473,6 +473,8 @@ it('should raise confirmDialog on openModal', () => {
 
 ## Unit test for Switch Case
 
+https://stackoverflow.com/a/55332043
+
 ### test 5
 
 **reviewer.component.ts**
